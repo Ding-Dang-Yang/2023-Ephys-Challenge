@@ -1,6 +1,6 @@
 # Fully Quantum Image Classification Model
 
-This project involves utilizing a "fully quantum layer" for image classification and recognition. To construct a convolutional and pooling layer in a quantum circuit, we will follow the QCNN construction proposed in 1. The former layer will extract local correlations, while the latter allows reducing the dimensionality of the feature vector. In a quantum circuit, the convolutional layer, consisting of a kernel swept along the entire image, is a two-qubit unitary that correlates neighbouring qubits. As for the pooling layer, we will use a conditioned single-qubit unitary that depends on the measurement of a neighboring qubit. Finally, we use a dense layer that entangles all qubits of the final state using an all-to-all unitary gate as shown in the figure below.
+This project explores the implementation of a "fully quantum layer" for image classification and recognition. The construction of convolutional and pooling layers within a quantum circuit follows the proposed QCNN methodology outlined in reference 1. The former layer is designed to capture local correlations, while the latter aims to reduce the dimensionality of the feature vector. In the quantum circuit, the convolutional layer employs a two-qubit unitary, created by sweeping a kernel across the entire image, to correlate neighboring qubits. The pooling layer utilizes a conditioned single-qubit unitary, dependent on the measurement outcome of a neighboring qubit. Lastly, a dense layer is employed to entangle all qubits in the final state using an all-to-all unitary gate, as depicted in the accompanying figure.
 
 ## Objective
 
@@ -41,3 +41,7 @@ National Chengchi University, Graduate Institute of Economics, First-year Master
 ## License
 
 This project is free and open source.
+
+## References
+
+1. https://pennylane.ai/qml/demos/tutorial_learning_few_data/
