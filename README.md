@@ -10,6 +10,18 @@ This project explores the implementation of a "fully quantum layer" for image cl
 
 Utilize quantum machine learning to classify photos of xxx.
 
+## File Description
+
+Crawl Data:
+
+> This module includes downloading data from various datasets.
+
+> It transforms the data into (2^n) x (2^n) matrices and extracts the eigenvalues before outputting them.
+
+Train:
+
+> This section encompasses the entire data input, model training, and the recognition of results.
+
 ## dataset
 
 我也還不知道
