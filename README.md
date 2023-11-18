@@ -16,6 +16,8 @@ For the 8_8_with_zero test set: 0.82 accuracy.
 
 For the 16_16_with_zero test set: 0.84 accuracy.
 
+For the 16_16_with_max test set: 0.88 accuracy.
+
 ## File Description
 
 Crawl Data:
@@ -89,3 +91,6 @@ This project is free and open source.
 ## References
 
 1. https://pennylane.ai/qml/demos/tutorial_learning_few_data/
+
+2. McClean, J. R., Boixo, S., Smelyanskiy, V. N., Babbush, R., & Neven, H. (2018). Barren plateaus in quantum neural network training landscapes. Nature communications, 9(1), 4812.
+
