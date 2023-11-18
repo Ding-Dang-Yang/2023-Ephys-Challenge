@@ -32,6 +32,10 @@ CIFAR_100_8_8_with_zero.ipynb
 
 > Download the CIFAR-100 dataset and extract classes 3 and 88. Convert the images in these classes to 4x4 matrices, representing three colors, and fill the fourth color with zeros.
 
+CIFAR_100_8_8_with_max.ipynb
+
+> Download the CIFAR-100 dataset and extract classes 3 and 88. Convert the images in these classes to 4x4 matrices, representing three colors, and fill the fourth color with max values.
+
 Train:
 
 > This section encompasses the entire data input, model training, and the recognition of results.
