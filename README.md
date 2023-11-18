@@ -38,6 +38,14 @@ accuracy_8_8 with zero.text
 
 > Using the data downloaded from CIFAR_100_8_8_with_zero, train the model using train_8_8, and obtain the results.
 
+Dataset
+
+> Data captured through web crawling.
+
+> CIFAR-100_8_8_with_zero_train.text
+
+> CIFAR-100_8_8_with_zero_test.text
+
 ## dataset
 
 CIFAR-100 Category 3 and Category 88
