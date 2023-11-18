@@ -1,0 +1,2 @@
+epoch train_cost  test_cost  train_acc   test_acc
+   29       0.48       0.48       0.77       0.82
