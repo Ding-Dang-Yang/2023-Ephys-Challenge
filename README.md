@@ -8,7 +8,7 @@ This project explores the implementation of a "fully quantum layer" for image cl
 
 ## Challenge
 
-Utilize quantum machine learning to classify photos of xxx.
+Utilize quantum machine learning to classify photos of CIFAR-100.
 
 ## Results
 
