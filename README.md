@@ -18,9 +18,23 @@ Crawl Data:
 
 > It transforms the data into (2^n) x (2^n) matrices and extracts the eigenvalues before outputting them.
 
+CIFAR_100_8_8_with_zero.ipynb
+
+> Download the CIFAR-100 dataset and extract classes 3 and 88. Convert the images in these classes to 4x4 matrices, representing three colors, and fill the fourth color with zeros.
+
 Train:
 
 > This section encompasses the entire data input, model training, and the recognition of results.
+
+train_8_8.ipynb
+
+> Train the model with 8x8 inputs.
+
+Result
+
+accuracy_8_8 with zero.text
+
+> Using the data downloaded from CIFAR_100_8_8_with_zero, train the model using train_8_8, and obtain the results.
 
 ## dataset
 
