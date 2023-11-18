@@ -90,6 +90,8 @@ This model was developed and executed entirely on Colab.
 
 National Chengchi University, Graduate Institute of Economics, First-year Master's student, Ding-Dang Yang.
 
+Graduated with a Bachelor's degree in Economics from National Cheng Kung University.
+
 ## License
 
 This project is free and open source.
