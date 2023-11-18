@@ -32,6 +32,8 @@ train_8_8.ipynb
 
 Result
 
+> This section includes information such as training cost, testing cost, training set accuracy, testing set accuracy, and the size of the samples used.
+
 accuracy_8_8 with zero.text
 
 > Using the data downloaded from CIFAR_100_8_8_with_zero, train the model using train_8_8, and obtain the results.
