@@ -16,7 +16,9 @@ For the 8_8_with_zero test set: 0.82 accuracy.
 
 For the 16_16_with_zero test set: 0.84 accuracy.
 
-For the 16_16_with_max test set: 0.88 accuracy.
+For the 8_8_with_max test set: 0.86 accuracy.
+
+For the 16_16_with_max test set: 0.91 accuracy.
 
 ## File Description
 
