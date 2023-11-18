@@ -24,7 +24,7 @@ Train:
 
 ## dataset
 
-我也還不知道
+CIFAR-100 Category 3 and Category 88
 
 ## Package Usage
 
