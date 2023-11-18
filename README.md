@@ -48,9 +48,9 @@ Dataset
 
 > Data captured through web crawling.
 
-> CIFAR-100_8_8_with_zero_train.text
+CIFAR-100_8_8_with_zero_train.text
 
-> CIFAR-100_8_8_with_zero_test.text
+CIFAR-100_8_8_with_zero_test.text
 
 ## dataset
 
