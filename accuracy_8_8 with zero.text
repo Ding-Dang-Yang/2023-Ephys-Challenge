@@ -1,2 +1,6 @@
 epoch train_cost  test_cost  train_acc   test_acc
    29       0.48       0.48       0.77       0.82
+
+n_train=10000
+n_test=3000
+n_epochs=30
