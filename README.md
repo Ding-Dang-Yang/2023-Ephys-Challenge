@@ -70,6 +70,8 @@ scikit-learn (sklearn): Package offering machine learning algorithms and tools.
 
 This model was developed and executed entirely on Colab.
 
+> Google Colab's operating system is the Ubuntu distribution of Linux
+
 ## Author
 
 National Chengchi University, Graduate Institute of Economics, First-year Master's student, Ding-Dang Yang.
